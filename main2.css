@@ -46,6 +46,6 @@ div.highlightTextOut a:hover:before, div.highlightTextIn a:hover:before{
 #background {
     background-color: red; 
     background-image: linear-gradient(rgba(117, 162, 248, 0.56), rgba(174, 181, 234, 0.99), #8ab4ed);
-    height: 49em;
+    height: 51em;
 }
 
