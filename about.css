@@ -36,6 +36,7 @@ h1 {
     left: 49%;
     right: 49%;
     top: 20%;
+	font-size: 2em;
 }
 
 h3 {
@@ -60,6 +61,7 @@ p{
     right: 10%;
     bottom: 50%;
     position: absolute;
+    text-size: 1.5em;
     
 }
 img{
